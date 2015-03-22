@@ -147,7 +147,7 @@ The Tidy Data Set contains the following ID columns:
 The Tidy Data Set is a melted data set consisting of an AVERAGE of each measures listed above from the original data set grouped by Subject and ActivityName.
 
 * References
-  1. Data Set: [link] {http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+  1. Data Set: [link] (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
   2. The linked data represents data collected from the accelerometers from the Samsung Galaxy S smartphone
   3. FAQ: [David's personal course project FAQ] (https://class.coursera.org/getdata-012/forum/thread?thread_id=9) 
 
